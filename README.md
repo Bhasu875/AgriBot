@@ -1,1 +1,1 @@
-# AgriBot
+Developed an AgriBot equipped with multiple sensors to collect real-time data on temperature, humidity, soil moisture, pH, and rainfall. Integrated a CNN-based plant disease detection system to identify crop diseases from leaf images. Additionally, created a crop recommendation system that suggests suitable crops based on real-time soil parameters (N, P, K, pH, moisture, temperature, and rainfall). Also created a GUI for showcasing the health status of plant leaf.
